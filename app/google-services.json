@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "598037623688",
+    "project_id": "jana231",
+    "storage_bucket": "jana231.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598037623688:android:ecadd7c93454615605c03d",
+        "android_client_info": {
+          "package_name": "com.example.dbconnection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFOYIN-b6gQaCLmgv_3-fXcxSnyxsb2vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598037623688:android:ca20720fa797f86705c03d",
+        "android_client_info": {
+          "package_name": "com.example.mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFOYIN-b6gQaCLmgv_3-fXcxSnyxsb2vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mobile App</string>
+    <string name="todo">TODO</string>
+    <string name="les_t_start">Les\'t Start</string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="_3c7962">#3c7962</string>
+    <string name="Account">Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="image_button">Image_Button</string>
+    <string name="donate">Donate</string>
+    <string name="recive">Recive</string>
+    <string name="col1">Name</string>
+    <string name="col2">Food Type</string>
+    <string name="col3">Description</string>
+    <string name="history">History</string>
+    <string name="about_us">About Us</string>
+    <string name="log_out">Log Out</string>
+    <string name="home">Home</string>
+    <string name="my_account">My Account</string>
+</resources>
